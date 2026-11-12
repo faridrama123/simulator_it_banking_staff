@@ -1,0 +1,6 @@
+{
+  "name": "Bank IT Tower 32 - Simulator Karyawan",
+  "description": "Game simulator 3D karyawan Bank IT di gedung pencakar langit 32 lantai: mulai dari plaza luar gedung, lobi absensi face recognition, lift 32 lantai, hingga open office modern, meeting room, pantry, dan ruang interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
